@@ -237,4 +237,4 @@ This repository serves as the official landing page for DeskTask. The software i
 **Get the most recent version of DeskTask today!**
 
 ---
-**Last updated:** 2026-09-12 13:13:37 UTC
+**Last updated:** 2026-09-12 16:36:54 UTC
